@@ -1,4 +1,8 @@
 # Plataformas Digitales en la Enseñanza de la Historia y la Cultura Colombiana
+
+![image 1](https://github.com/cristina9701-ctrl/Ense-anza-de-la-Historia-y-Cultura-Colombiana/blob/master/policarpa.jpg)
+
+
 Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como herramientas para el conocimiento de la historia y cultura colombiana. 
 
 - [Biblioteca Nacional de Colombia](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/bd)
